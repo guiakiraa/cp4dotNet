@@ -1,6 +1,6 @@
-## Alice Nunes - RM 559052
-## Anne Rezendes - RM 556779
-## Guilherme Akira - RM 556128
+Alice Nunes - RM 559052
+Anne Rezendes - RM 556779
+Guilherme Akira - RM 556128
 
 # GeoMaster API
 
