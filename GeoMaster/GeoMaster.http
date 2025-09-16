@@ -1,0 +1,6 @@
+@GeoMaster_HostAddress = http://localhost:5271
+
+GET {{GeoMaster_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
